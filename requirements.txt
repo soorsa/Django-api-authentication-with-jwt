@@ -1,0 +1,7 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-redis
+psycopg2-binary
+redis
+dj-database-url
